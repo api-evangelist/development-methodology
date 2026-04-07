@@ -9,9 +9,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Development Methodology
-  - Development Methodologies
   - Agile
+  - Development Methodologies
+  - Development Methodology
   - Scrum
 url: https://raw.githubusercontent.com/api-evangelist/development-methodology/refs/heads/main/apis.yml
 created: '2025-01-01'
